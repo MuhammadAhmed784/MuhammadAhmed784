@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Computer Science student based in **Karachi, Pakistan**
+- 🎓 Software Engineering student based in **Karachi, Pakistan**
 - 🤖 Passionate about **AI, Machine Learning, and AI Agents**
 - 🔭 Currently building intelligent systems and exploring **AI automation**
 - 🌱 Always learning — right now diving deeper into **LLMs and agentic workflows**
