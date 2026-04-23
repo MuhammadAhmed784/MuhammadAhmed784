@@ -50,14 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmed784&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmed784&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
 
 ### 🤝 Connect With Me
 
@@ -72,6 +65,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmed784&label=Profile+Views&color=6C63FF&style=flat" alt="profile views"/>
-</p>
