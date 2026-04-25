@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed 👋</h1>
 
-<h3 align="center">AI & Machine Learning Enthusiast | Building Intelligent Systems | Open to Internships</h3>
+<h3 align="center">AI & Machine Learning Enthusiast | Building Intelligent Systems</h3>
 
 <br/>
 
