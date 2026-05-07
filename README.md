@@ -1,30 +1,31 @@
 <h1 align="center">Hi, I'm Ahmed 👋</h1>
 
-<h3 align="center">Networking & IT Infrastructure Enthusiast | CS Student</h3>
+<h3 align="center">AI & Machine Learning Enthusiast | Building Intelligent Systems</h3>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=Networking+%26+IT+Infrastructure;Building+AI+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=AI+%26+Machine+Learning+Student;Building+AI+Agents+%26+Automation;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 CS student in my **6th semester**, based in **Karachi, Pakistan**
-- 🌐 Passionate about **Networking & IT Infrastructure**
-- 🤖 Building AI projects and exploring **LLMs and automation**
-- 🔐 Completed a **HackTheBox Academy** cybersecurity course
-- 💼 Actively looking for **internships** in networking/IT (Pakistan & Germany)
-- ⚡ Fun fact: I built an AI-powered Car Malfunction Detector!
+- 🎓 Software Engineering student based in **Karachi, Pakistan**
+- 🤖 Passionate about **AI, Machine Learning, and AI Agents**
+- 🔭 Currently building intelligent systems and exploring **AI automation**
+- 🌱 Always learning — right now diving deeper into **LLMs and agentic workflows**
+- 💼 Actively looking for **internships and opportunities** in AI/ML
+- ⚡ Fun fact: I built my own voice assistant powered by Google Gemini!
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -42,6 +43,13 @@
 > An AI-powered system that detects and diagnoses car malfunctions. Built to demonstrate practical ML applications in the real world.
 >
 > `Python` `Machine Learning` `AI`
+
+---
+
+#### 🤖 [Jarvis — AI Voice Assistant](https://github.com/iamFantom/personal-voice-assistant)
+> A Python-based personal voice assistant powered by **Google Gemini 2.5 Flash**. Responds to a wake word, plays music, reads live news, opens websites, and answers any question using AI.
+>
+> `Python` `Gemini AI` `Speech Recognition` `gTTS` `Pygame` `NewsAPI`
 
 ---
 
